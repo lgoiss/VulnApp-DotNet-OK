@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/Luiz/Desktop/prep/DotNetVulnApp/brokenaccesscontrol.csproj": {}
+    "C:\\Users\\luziv\\Documents\\labs\\VulnApp-DotNet-OK\\brokenaccesscontrol.csproj": {}
   },
   "projects": {
-    "/home/Luiz/Desktop/prep/DotNetVulnApp/brokenaccesscontrol.csproj": {
+    "C:\\Users\\luziv\\Documents\\labs\\VulnApp-DotNet-OK\\brokenaccesscontrol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/Luiz/Desktop/prep/DotNetVulnApp/brokenaccesscontrol.csproj",
+        "projectUniqueName": "C:\\Users\\luziv\\Documents\\labs\\VulnApp-DotNet-OK\\brokenaccesscontrol.csproj",
         "projectName": "brokenaccesscontrol",
-        "projectPath": "/home/Luiz/Desktop/prep/DotNetVulnApp/brokenaccesscontrol.csproj",
-        "packagesPath": "/home/Luiz/.nuget/packages/",
-        "outputPath": "/home/Luiz/Desktop/prep/DotNetVulnApp/obj/",
+        "projectPath": "C:\\Users\\luziv\\Documents\\labs\\VulnApp-DotNet-OK\\brokenaccesscontrol.csproj",
+        "packagesPath": "C:\\Users\\luziv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luziv\\Documents\\labs\\VulnApp-DotNet-OK\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/Luiz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\luziv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +45,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "BouncyCastle": {
               "target": "Package",
               "version": "[1.8.6.1, )"
@@ -82,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

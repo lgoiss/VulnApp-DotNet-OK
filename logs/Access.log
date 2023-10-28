@@ -4,3 +4,7 @@
 [12/07/2023 23:11:43] [INFO] User 'admin' Password 'admin' logged
 [12/07/2023 23:20:08] [INFO] User 'admin' Password 'admin' logged
 [12/07/2023 23:24:20] [INFO] User 'admin' Password 'admin' logged
+[28/10/2023 18:49:20] [INFO] Name 'LuzivanAdmin' , User 'luzivanadmin', IsAdmin 'False' , Password 'luzivanadmin' CREATED
+[28/10/2023 18:50:00] [INFO] Name 'Luzivan' , User 'luzivan', IsAdmin 'False' , Password 'luzivan' CREATED
+[28/10/2023 18:50:08] [INFO] User 'luzivan' Password 'luzivan' logged
+[28/10/2023 18:56:35] [INFO] User 'luzivan' Password 'luzivan' logged

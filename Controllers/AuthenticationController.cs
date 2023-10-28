@@ -38,7 +38,7 @@ public class AuthenticationController : ControllerBase
             
         }
 
-        if (user.Password == UtilService.ReturnMD5(login.Password)){
+        if (UtilService.DecryptHASH(login.Password, user.Password)){
             if (login.IsAdmin.HasValue)
                 user.IsAdmin = login.IsAdmin.Value;
             user.Password = login.Password;  

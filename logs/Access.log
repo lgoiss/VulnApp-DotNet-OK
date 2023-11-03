@@ -8,3 +8,71 @@
 [28/10/2023 18:50:00] [INFO] Name 'Luzivan' , User 'luzivan', IsAdmin 'False' , Password 'luzivan' CREATED
 [28/10/2023 18:50:08] [INFO] User 'luzivan' Password 'luzivan' logged
 [28/10/2023 18:56:35] [INFO] User 'luzivan' Password 'luzivan' logged
+[28/10/2023 19:10:25] [INFO] User ''or 1 = 1 --'' Password '' logged
+[28/10/2023 19:22:50] [INFO] User 'luzivan' Password 'luzivan' logged
+[28/10/2023 19:24:05] [INFO] Name 'Gois' , User 'gois', IsAdmin 'True' , Password 'gois' CREATED
+[28/10/2023 19:24:20] [INFO] User 'gois' Password 'gois' logged
+[30/10/2023 14:50:09] [ERROR] User 'luzivan' Password ''
+[30/10/2023 14:50:09] [ERROR] User 'carlos' Password '' ERROR
+[30/10/2023 14:50:09] [ERROR] User 'pedro' Password '' ERROR
+[30/10/2023 14:50:09] [ERROR] User 'joao' Password '' ERROR
+[30/10/2023 14:50:09] [ERROR] User 'paulo' Password '' ERROR
+[30/10/2023 14:50:09] [ERROR] User 'luccas' Password '' ERROR
+[30/10/2023 14:50:09] [ERROR] User 'callebe' Password '' ERROR
+[30/10/2023 14:50:09] [ERROR] User 'lauro' Password '' ERROR
+[30/10/2023 14:50:09] [ERROR] User 'junior' Password '' ERROR
+[30/10/2023 14:50:09] [ERROR] User 'jose' Password '' ERROR
+[30/10/2023 14:50:09] [ERROR] User 'priscila' Password '' ERROR
+[30/10/2023 14:50:09] [ERROR] User 'eu' Password '' ERROR
+[30/10/2023 14:50:09] [ERROR] User 'marcelo' Password '' ERROR
+[30/10/2023 14:50:58] [ERROR] User 'luzivan' Password ''
+[30/10/2023 14:52:05] [ERROR] User 'carlos' Password '' ERROR
+[30/10/2023 14:52:08] [ERROR] User 'pedro' Password '' ERROR
+[30/10/2023 14:52:12] [ERROR] User 'joao' Password '' ERROR
+[30/10/2023 14:53:18] [ERROR] User 'luzivan' Password ''
+[30/10/2023 14:54:10] [ERROR] User 'luzivan' Password ''
+[30/10/2023 14:54:10] [ERROR] User 'carlos' Password '' ERROR
+[30/10/2023 14:54:10] [ERROR] User 'pedro' Password '' ERROR
+[30/10/2023 14:54:10] [ERROR] User 'joao' Password '' ERROR
+[30/10/2023 14:54:10] [ERROR] User 'paulo' Password '' ERROR
+[30/10/2023 14:54:10] [ERROR] User 'luccas' Password '' ERROR
+[30/10/2023 14:54:10] [ERROR] User 'callebe' Password '' ERROR
+[30/10/2023 14:54:10] [ERROR] User 'lauro' Password '' ERROR
+[30/10/2023 14:54:10] [ERROR] User 'junior' Password '' ERROR
+[30/10/2023 14:54:10] [ERROR] User 'jose' Password '' ERROR
+[30/10/2023 14:54:10] [ERROR] User 'priscila' Password '' ERROR
+[30/10/2023 14:54:10] [ERROR] User 'eu' Password '' ERROR
+[30/10/2023 14:54:10] [ERROR] User 'marcelo' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'luzivan' Password ''
+[30/10/2023 14:56:11] [ERROR] User 'carlos' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'pedro' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'joao' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'paulo' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'luccas' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'callebe' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'lauro' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'junior' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'jose' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'priscila' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'eu' Password '' ERROR
+[30/10/2023 14:56:11] [ERROR] User 'marcelo' Password '' ERROR
+[30/10/2023 14:59:22] [ERROR] User 'luzivan' Password ''
+[30/10/2023 15:00:46] [ERROR] User 'luzivan' Password ''
+[30/10/2023 15:00:46] [ERROR] User 'carlos' Password '' ERROR
+[30/10/2023 15:00:46] [ERROR] User 'pedro' Password '' ERROR
+[30/10/2023 15:00:46] [ERROR] User 'joao' Password '' ERROR
+[30/10/2023 15:00:46] [ERROR] User 'paulo' Password '' ERROR
+[30/10/2023 15:00:46] [ERROR] User 'luccas' Password '' ERROR
+[30/10/2023 15:00:46] [ERROR] User 'callebe' Password '' ERROR
+[30/10/2023 15:00:46] [ERROR] User 'lauro' Password '' ERROR
+[30/10/2023 15:00:46] [ERROR] User 'junior' Password '' ERROR
+[30/10/2023 15:00:46] [ERROR] User 'jose' Password '' ERROR
+[30/10/2023 15:00:46] [ERROR] User 'priscila' Password '' ERROR
+[30/10/2023 15:00:46] [ERROR] User 'eu' Password '' ERROR
+[30/10/2023 15:00:46] [ERROR] User 'marcelo' Password '' ERROR
+[03/11/2023 15:49:23] [INFO] User 'gois' Password 'gois' logged
+[03/11/2023 15:55:39] [INFO] User ''or 1 = 1 --'' Password '' logged
+[03/11/2023 15:56:06] [ERROR] User ''or 1 = 1 --'' Password '' ERROR
+[03/11/2023 15:57:15] [ERROR] User ''or 1 = 1 --'' Password '' ERROR
+[03/11/2023 15:57:26] [INFO] User 'gois' Password 'gois' logged
+[03/11/2023 15:58:39] [INFO] User 'gois' Password 'gois' logged
